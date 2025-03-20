@@ -37,7 +37,5 @@ This Streamlit app visualizes air quality data based on multiple pollutants like
 
 ## Author:
 - **Fadhillah Rahmad Kurnia**
-- **DBS Cooding Camp @ 2024**
+- **MC184D5Y0386 || DBS Cooding Camp @ 2024 All Rights Reserved4**
 
-## License:
-This project is licensed under the MIT License.
