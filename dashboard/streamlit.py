@@ -163,4 +163,4 @@ st.write("Station dengan polusi tertinggi berdasarkan analisis RFM")
 st.write(rfm_df.head())
 
 st.caption("---")
-st.caption("Fadhillah Rahmad Kurnia || 	MC184D5Y0386 || DBS Cooding Camp @ 2024 All Rights Reserved")
+st.caption("Fadhillah Rahmad Kurnia || 	MC184D5Y0386 || DBS Cooding Camp @ 2025 All Rights Reserved")
